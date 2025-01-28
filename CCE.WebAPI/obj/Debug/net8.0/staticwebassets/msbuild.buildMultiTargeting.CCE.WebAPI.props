@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CCE.WebAPI.props" />
+</Project>

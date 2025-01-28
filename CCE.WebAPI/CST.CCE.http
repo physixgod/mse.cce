@@ -1,0 +1,6 @@
+@CST.CCE_HostAddress = http://localhost:5075
+
+GET {{CST.CCE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
