@@ -5,9 +5,9 @@ using CCE.Domain.Usine;
 public interface IUsineRepository  
 {
     Task<Usine> AddAsync(Usine usine);
-    Task<Usine> GetByIdAsync(int id);
+    Task<Usine> GetByIdAsync(string id);
     Task<IEnumerable<Usine>> GetAllAsync();
     Task<Usine> UpdateAsync(Usine usine);
-    Task<bool> DeleteAsync(int id);
+    Task<bool> DeleteAsync(string id);
 
 }

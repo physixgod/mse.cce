@@ -8,6 +8,6 @@ public class Usine
    
     public string Code { get; set; }
     public string? Libelle { get; set; }
-    public ICollection<Atelier> Ateliers { get; set; }
+    public ICollection<Atelier>? Ateliers { get; set; }
 
 }

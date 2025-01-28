@@ -1,0 +1,16 @@
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\bin\Debug\net8.0\CCE.Application.deps.json
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\bin\Debug\net8.0\CCE.Application.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\bin\Debug\net8.0\CCE.Application.pdb
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\bin\Debug\net8.0\CCE.Domain.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\bin\Debug\net8.0\CCE.Domain.pdb
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.csproj.AssemblyReference.cache
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.AssemblyInfoInputs.cache
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.AssemblyInfo.cs
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.csproj.CoreCompileInputs.cache
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.sourcelink.json
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Appl.CA621BB4.Up2Date
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\refint\CCE.Application.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\CCE.Application.pdb
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Application\obj\Debug\net8.0\ref\CCE.Application.dll

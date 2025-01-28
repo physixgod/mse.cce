@@ -1,0 +1,12 @@
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\bin\Debug\net8.0\CCE.Domain.deps.json
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\bin\Debug\net8.0\CCE.Domain.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\bin\Debug\net8.0\CCE.Domain.pdb
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.AssemblyInfoInputs.cache
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.AssemblyInfo.cs
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.sourcelink.json
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\refint\CCE.Domain.dll
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\CCE.Domain.pdb
+C:\Users\developpeur_10\RiderProjects\CST.CCE\CCE.Domain\obj\Debug\net8.0\ref\CCE.Domain.dll

@@ -5,11 +5,11 @@ namespace CCE.Domain.Usine.Entities;
 
 public class Atelier
 {
-    public int Code { get; set; }
+    public string Code { get; set; }
     public string? Libelle { get; set; }
-    public int? UsineCode { get; set; } 
+    public string? UsineCode { get; set; } 
     [ForeignKey("UsineCode")] 
     public Usine? Usine { get; set; } 
-    public ICollection<SecteurAtelier> SecteurAteliers { get; set; } = new List<SecteurAtelier>();
+    public ICollection<SecteurAtelier>? SecteurAteliers { get; set; } = new List<SecteurAtelier>();
 
 }

@@ -6,10 +6,10 @@ public class SecteurAtelier
 {
     public string Code { get; set; }
     public string? Libelle { get; set; }
-    public int AtelierCode { get; set; }
+    public string? AtelierCode { get; set; }
     [ForeignKey("AtelierCode")]
     public Atelier? Atelier { get; set; }
-    public ICollection<Ligne> Lignes { get; set; } = new List<Ligne>();
+    public ICollection<Ligne>? Lignes { get; set; } = new List<Ligne>();
 
     
 }

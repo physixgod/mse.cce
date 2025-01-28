@@ -9,7 +9,7 @@ public class Ligne
     public string? Computer_Input { get; set; }
     public string? Computer_Output { get; set; }
     public string? Equation { get; set; }
-    public string SecteurAtelierCode { get; set; }
+    public string? SecteurAtelierCode { get; set; }
 
     [ForeignKey("SecteurAtelierCode")]
     public SecteurAtelier? SecteurAtelier { get; set; }
