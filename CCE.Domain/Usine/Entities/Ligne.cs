@@ -13,4 +13,6 @@ public class Ligne
 
     [ForeignKey("SecteurAtelierCode")]
     public SecteurAtelier? SecteurAtelier { get; set; }
+    public ICollection<ProductionPotentielle> ProductionPotentielles { get; set; } = new List<ProductionPotentielle>();
+
 }

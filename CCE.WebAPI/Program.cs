@@ -1,4 +1,5 @@
 using CCE.Application.Repositories.Usine;
+using CCE.Domain.Usine.Entities;
 using CCE.Infrastructure.Persistence.Context;
 using CCE.Infrastructure.Persistence.Repositories.UsineRepository;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,11 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("cee.cst")));
 builder.Services.AddScoped<IUsineRepository, UsineRepository>();
 builder.Services.AddScoped<IAtelierRepository, AtelierRepository>();
+builder.Services.AddScoped<ILigneRepository, LigneRepository>();
+builder.Services.AddScoped<ISecteurRepository, SecteurAtelierRepository>();
+builder.Services.AddScoped<ITypePosteRepository, TypePosteRepository>();
+builder.Services.AddScoped<IProductionRepository, ProductionPotentielleRepository>();
+
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
